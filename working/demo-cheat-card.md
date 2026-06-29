@@ -39,7 +39,8 @@ Say: *"You can do this yourself all week. Here's how."*
 ---
 
 ## THE JSON (paste into Jobs)
-`{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "maxMinutes": 120 }`
+`{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "parameterSet": { "schedulerOptions": [ { "name": "TACC Allocation", "arg": "-A TRA25001" } ] } }`
+(The `-A TRA25001` is what fixes the "multiple projects" error.)
 
 ## LOGIN (if you blank)
 - Web: **morehouse.tapis.io**, TACC username and password and MFA

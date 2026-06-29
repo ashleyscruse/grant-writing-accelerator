@@ -47,10 +47,21 @@ Where things go on Vista (matters for your Data Management Plan):
 1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)** → **Jobs → submit a job** and paste this in:
 
 ```json
-{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista" }
+{
+  "name": "jupyter",
+  "appId": "jupyter-hpc-native",
+  "appVersion": "vista",
+  "parameterSet": {
+    "schedulerOptions": [
+      { "name": "TACC Allocation", "arg": "-A TRA25001" }
+    ]
+  }
+}
 ```
 
 2. Wait until it reads **RUNNING**, open **`tapisjob.out`**, and copy the `JUPYTER_URL` line into your browser.
+
+(The `-A TRA25001` line tells Vista which allocation to charge. If you ever see "you have multiple projects to charge to," that line is what fixes it.)
 
 ## See it paint (the demo notebook)
 
