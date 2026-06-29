@@ -42,9 +42,36 @@ Where things go on Vista (matters for your Data Management Plan):
 - `$WORK` (1 TB) for software and files you keep
 - `$SCRATCH` (no limit, purged after 10 idle days) for big datasets and active jobs
 
-## Launch a Jupyter notebook
+## Launch a Jupyter notebook (copy and paste)
 
-The easiest hands-on step: launch a JupyterLab session on a real Vista GPU node from the Tapis web app. Full step-by-step and the exact job request are on the **[Explore the Compute](./explore-compute)** page. This week you can run it inside our daily GPU reservation.
+Launch JupyterLab on a real Vista GPU node from the Tapis web app, no command line.
+
+1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)**, then **Jobs → submit a job** and paste this into the JSON box:
+
+```json
+{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "maxMinutes": 120 }
+```
+
+2. Wait until the job reads **RUNNING**, open the output file **`tapisjob.out`**, and copy the `JUPYTER_URL` line (including `?token=...`) into your browser.
+
+**To run inside this week's GPU reservation**, paste this version instead and change the day (`NAIRR+Accel_Mon` → the day you are working):
+
+```json
+{
+  "name": "jupyter",
+  "appId": "jupyter-hpc-native",
+  "appVersion": "vista",
+  "maxMinutes": 120,
+  "parameterSet": {
+    "schedulerOptions": [
+      { "name": "partition", "arg": "--partition=gh" },
+      { "name": "reservation", "arg": "--reservation=NAIRR+Accel_Mon" }
+    ]
+  }
+}
+```
+
+Full step-by-step and troubleshooting: **[Explore the Compute](./explore-compute)**.
 
 ## Vista queues
 
