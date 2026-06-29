@@ -65,11 +65,11 @@ Where things go on Vista (matters for your Data Management Plan):
 
 ## Vista queues
 
-| Queue | What you get | Time limit |
-|-------|-------------|------------|
-| `gh` | 1 NVIDIA H200 GPU (96 GB), 72 cores per node | 48 hours |
-| `gh-dev` | Same GPU, for quick tests | 2 hours |
-| `gg` | 144 cores, no GPU | 48 hours |
+| Queue | What you get |
+|-------|-------------|
+| `gh` | 1 NVIDIA H200 GPU (96 GB), 72 cores per node |
+| `gh-dev` | Same GPU, for quick tests |
+| `gg` | 144 cores, no GPU |
 
 Our reservation this week is on `gh`. See [Explore the Compute](./explore-compute) for how to use it.
 
