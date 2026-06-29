@@ -52,8 +52,16 @@ Do not debug live. Say *"this is exactly why we keep a backup"* and flip to the 
 ## THIS WEEK'S RESERVATION (gh queue)
 Mon `NAIRR+Accel_Mon`, Tue `NAIRR+Accel_Tue`, Wed `NAIRR+Accel_Wed`, Thu `NAIRR+Accel_Thu`, Fri `NAIRR+Accel_Fri`
 
-## THE PAINT NOTEBOOK
-Repo: `github.com/ashleyscruse/supercomputer-paints`. Setup once on a login node (`bash setup.sh`), then open `paint.ipynb` on a `gh` node.
+## CLONE THE REPO (show them, on a login node)
+```
+cd $WORK
+git clone https://github.com/ashleyscruse/supercomputer-paints.git
+cd supercomputer-paints
+bash setup.sh
+```
+Already cloned? It says "already exists." Then either `cd $WORK/supercomputer-paints && git pull`, or clone into a new name: `git clone https://github.com/ashleyscruse/supercomputer-paints.git paints-demo`.
+
+Then open `paint.ipynb` on a `gh` node and run the cells.
 
 ---
 
