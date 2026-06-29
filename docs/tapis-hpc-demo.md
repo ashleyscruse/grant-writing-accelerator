@@ -37,9 +37,11 @@ Where things go on Vista (matters for your Data Management Plan):
   "name": "jupyter",
   "appId": "jupyter-hpc-native",
   "appVersion": "vista",
+  "execSystemLogicalQueue": "gh",
   "parameterSet": {
     "schedulerOptions": [
-      { "name": "TACC Allocation", "arg": "-A TRA25001" }
+      { "name": "TACC Allocation", "arg": "-A TRA25001" },
+      { "name": "TACC Reservation", "arg": "--reservation=NAIRR+Accel_Mon" }
     ]
   }
 }
@@ -47,7 +49,7 @@ Where things go on Vista (matters for your Data Management Plan):
 
 2. Wait until it reads **RUNNING**, open **`tapisjob.out`**, and copy the `JUPYTER_URL` line into your browser.
 
-(The `-A TRA25001` line tells Vista which allocation to charge. If you ever see "you have multiple projects to charge to," that line is what fixes it.)
+Change `NAIRR+Accel_Mon` to today's reservation (Tue is `NAIRR+Accel_Tue`, Wed `NAIRR+Accel_Wed`, and so on). The `-A TRA25001` line tells Vista which allocation to charge, and `--reservation` puts you on this week's reserved GPU nodes.
 
 ## See it paint (the demo notebook)
 
