@@ -20,32 +20,36 @@ This program is being evaluated. On **Monday**, you will have an email in your i
 
 ## Monday, June 29 — Introduction Day
 
-| Time | Session |
-|---|---|
-| 10:00 – 10:15 | Welcome, overview, and evaluation kickoff (Dr. Gosha) |
+| Time           | Session                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------- |
+| 10:00 – 10:15 | Welcome, overview, and evaluation kickoff (Dr. Gosha)                                    |
 | 10:15 – 10:20 | Informed consent: open the email in your inbox and complete the consent form (5 minutes) |
-| 10:20 – 10:35 | Introductions: who is in the room? |
-| 10:35 – 11:15 | Background, and why HPC (see below) |
-| 11:15 – 11:45 | Key definitions: HPC, AI, and what is what (see below) |
-| 11:45 – 12:15 | HPC + Tapis demo (Dr. Scruse): about 20 minutes plus Q&A |
-| 12:15 – 12:30 | Identifying funding opportunities: getting started |
-| 12:30 – 1:30 | Lunch |
-| 1:30 – 3:00 | Identifying funding opportunities, continued (see below) |
-| 3:00 – 4:30 | Office hours: start your one-page idea |
-| Evening | White Party |
+| 10:20 – 10:35 | Introductions: who is in the room?                                                       |
+| 10:35 – 11:15 | Background, and why HPC (see below)                                                      |
+| 11:15 – 11:45 | Key definitions: HPC, AI, and what is what (see below)                                   |
+| 11:45 – 12:15 | HPC + Tapis demo (Dr. Scruse): about 20 minutes plus Q&A                                 |
+| 12:15 – 12:30 | Identifying funding opportunities: getting started                                       |
+| 12:30 – 1:30  | Lunch                                                                                    |
+| 1:30 – 3:00   | Identifying funding opportunities, continued (see below)                                 |
+| 3:00 – 4:30   | Office hours: start your one-page idea                                                   |
+| Evening        | White Party                                                                              |
 
 **Background, and why HPC**
+
 - Background: the grant landscape, HPC, and the MSCF (NSF's $500M investment, our relationship with TACC, federal funding).
 - Why HPC for your research: free compute (no data-center cost, no electricity/maintenance/upgrades, no spending grant funds on it), higher research productivity, multidisciplinary training that transfers across the college, MSCF and TACC support (community and staff), alignment with federal funding priorities (a better chance at funding), moving from training-level work to publishable and cited research, software pre-installed (no student-laptop limits), and room for new research questions.
 
 **Key definitions**
+
 - HPC vs. ChatGPT/Claude vs. AI vs. computing; AI vs. AI literacy; how HPC does and does not connect to AI and LLMs; the common misconceptions about both.
 
 **HPC + Tapis demo (Dr. Scruse, about 20 minutes plus Q&A)**
+
 - A non-technical, split-screen look at HPC through Tapis: the terminal and the Tapis web interface side by side, showing you are on the same supercomputer two ways.
 - The point: you do not have to be a computer scientist to use a supercomputer, and this is real compute you can name in a proposal and request through NAIRR/TACC.
 
 **Identifying funding opportunities**
+
 - Searching manually, and using AI to find opportunities; managing your list of prospects.
 - Prospective roles (PI, Co-PI); budgets; opportunity costs; short-term vs. long-term advantages; recycling proposals.
 - Go / no-go decisions: how a grant aligns with your career goals and your department's goals, and whether you have the time.
@@ -57,22 +61,17 @@ This program is being evaluated. On **Monday**, you will have an email in your i
 
 ## Tuesday, June 30 — Grant Training
 
-| Time | Session |
-|---|---|
-| 10:00 – 10:15 | Welcome and daily agenda review |
-| 10:30 – 12:30 | Writing the proposal (see below) |
-| 12:30 – 1:30 | Lunch |
-| 1:30 – 3:00 | Independent work: draft a one-page summary |
-| 3:00 – 4:30 | Office hours: one-pager |
-| Evening | Souvenir shop, Punta Blanca Mall |
-
-**Writing the proposal (morning)**
-- Feedback on the solicitation you chose: its pros and cons.
-- How to use the MSCF in your proposal, and a walk through the major sections: Project Summary, Project Description (your research plan), Intellectual Merit, Broader Impacts, and the budget and justification.
-- The proposal evaluation process, and the grant submission timeline.
-- Starter grant opportunities for early-career and first-time PIs.
-- Picking collaborators, and the other materials a proposal needs (letters of support, current and pending, biosketch).
-- How AI can help your workflow (a teaser for Thursday).
+| Time           | Session                                                                                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 10:00 – 10:45 | Feedback on the solicitation you chose: its pros and cons                                                                                                                                  |
+| 10:45 – 11:30 | The major proposal sections: Project Summary, Project Description (research plan), Intellectual Merit, Broader Impacts, and the budget and justification, and what reviewers score in each |
+| 11:30 – 11:50 | How to use the MSCF in your proposal                                                                                                                                                       |
+| 11:50 – 12:10 | The proposal evaluation process and submission timeline; starter grant opportunities                                                                                                       |
+| 12:10 – 12:30 | Picking collaborators and supporting materials (letters of support, current and pending, biosketch); how AI can help your workflow (a teaser for Thursday)                                 |
+| 12:30 – 1:30  | Lunch                                                                                                                                                                                      |
+| 1:30 – 3:00   | Independent work: draft a one-page summary                                                                                                                                                 |
+| 3:00 – 4:30   | Office hours: one-pager                                                                                                                                                                    |
+| Evening        | Souvenir shop, Punta Blanca Mall                                                                                                                                                           |
 
 **Deliverable:** a one-page summary with your problem statement, your proposed solution and how it addresses the gap, your methods and scientific plan, and how it aligns with funding priorities.
 
@@ -80,20 +79,19 @@ This program is being evaluated. On **Monday**, you will have an email in your i
 
 ## Wednesday, July 1 — Budgets
 
-| Time | Session |
-|---|---|
-| 10:00 – 10:15 | Welcome and daily agenda review |
-| 10:30 – 12:30 | Building and justifying a budget (see below) |
-| 12:30 – 1:30 | Lunch |
-| 1:30 – 3:00 | Activity: sample budget and justification |
-| 3:00 – 4:30 | Office hours: budget |
-| Evening | Beach day |
+| Time           | Session                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 10:00 – 10:30 | Feedback on your one-page summary                                                                                          |
+| 10:30 – 11:00 | Your team drives your budget: who is on the project sets most of the cost                                                  |
+| 11:00 – 11:30 | Budget basics: personnel and PI/Co-PI effort, fringe, indirect costs (IDC), moving money between categories                |
+| 11:30 – 12:00 | Budget strategies: buying out of teaching, collaboratives vs. subawards (how you fund collaborators), and when to use each |
+| 12:00 – 12:30 | Walk through a sample budget structure                                                                                     |
+| 12:30 – 1:30  | Lunch                                                                                                                      |
+| 1:30 – 3:00   | Activity: build your sample budget and justification                                                                       |
+| 3:00 – 4:30   | Office hours: budget                                                                                                       |
+| Evening        | Beach day                                                                                                                  |
 
-**Building and justifying a budget (morning)**
-- Feedback on your one-page summary.
-- What to spend on; indirect costs (IDC); fringe; moving money between categories; and the strategies behind those choices.
-- Buying out of teaching with grant funds.
-- Collaboratives vs. subawards, and when to use each.
+**Your team and your budget go together.** Who is on the project drives most of what the budget holds: PI and Co-PI effort and salary, the personnel you hire, fringe on those salaries, and collaborators funded through subawards. We connect the team you sketched (the collaborators and roles from Tuesday) to the dollars here, so the people and the budget tell the same story.
 
 **Deliverable:** a sample budget and budget justification.
 
@@ -103,34 +101,36 @@ This program is being evaluated. On **Monday**, you will have an email in your i
 
 | Time | Session |
 |---|---|
-| 10:00 – 10:15 | Welcome and daily agenda review (Dr. Scruse) |
-| 10:15 – 10:30 | Feedback on your budget |
-| 10:30 – 11:00 | AI demo: using AI to support your proposal workflow (Dr. Scruse) |
-| 11:00 – 12:30 | Claude skills for proposal sections (Dr. Scruse): giving AI the context of your proposal |
+| 10:00 – 10:45 | Demo (Dr. Scruse): how Claude Code and Claude Cowork help, and a tour of your workspace. It is not the AI, it is the context |
+| 10:45 – 12:30 | Get set up: fill in your profile (you, your institution, your collaborators) so AI drafts from your real record |
 | 12:30 – 1:30 | Lunch |
-| 1:30 – 3:00 | Claude Cowork demo (Dr. Scruse) |
+| 1:30 – 3:00 | Get to work on your own proposal: evaluate an opportunity (grant-analyzer), then draft a section (grant-writing). Help on hand |
 | 3:00 – 4:30 | Office hours |
 | Evening | Mall and farewell dinner (group picture) |
 
-**What today is about**
-- Set up your professional context once (who you are, your institution, your collaborators) so AI works from your real record instead of generic filler.
-- See the Claude skills that evaluate an opportunity and draft proposal sections mapped to the funder's review criteria.
-- The Cowork demo shows the same workflow in a shared, document-style space.
-- You leave with a workflow you keep using after the week, not just notes.
+**The demo, step by step**
+
+- **It is not the AI, it is the context.** Set up who you are once; from then on every evaluation and draft is grounded in your real record.
+- **Set up your context:** your profile (you, your institution, your collaborators), so the AI stops guessing and starts using your actual work.
+- **Evaluate an opportunity:** the grant-analyzer skill gives an honest fit read (eligibility, alignment, the gaps a reviewer would flag, and a go / no-go).
+- **Draft a section:** the grant-writing skill drafts proposal sections mapped to the funder's review criteria, using your profile and team.
+- **Review it:** read the draft back as a skeptical reviewer before you trust a word of it.
+- **Cowork:** the same profile and skills in a familiar document space, no code editor.
+- **You leave with** a drafted section in hand and a workflow you keep using long after the week ends.
 
 ---
 
 ## Friday, July 3 — Work Day
 
-| Time | Session |
-|---|---|
-| 10:00 – 10:15 | Demo continued and feedback (Dr. Scruse) |
-| 10:30 – 12:30 | Independent work |
-| 12:30 – 1:30 | Lunch |
-| 1:30 – 3:00 | Collaboration (as it comes up naturally) |
-| 3:00 – 3:15 | End-of-program evaluation: complete both surveys, general and track-specific (about 15 minutes, for those who consented) |
-| 3:15 – 4:30 | Wrap-up and office hours |
-| Evening | Free |
+| Time           | Session                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 10:00 – 10:45 | Demo continued from Thursday (Dr. Scruse): more of the AI workflow, drafting additional sections, reviewing and refining |
+| 10:45 – 12:30 | Independent work: keep drafting your proposal with the workflow |
+| 12:30 – 1:30  | Lunch                                                                                                                    |
+| 1:30 – 3:00   | Collaboration (as it comes up naturally)                                                                                 |
+| 3:00 – 3:15   | End-of-program evaluation: complete both surveys, general and track-specific (about 15 minutes, for those who consented) |
+| 3:15 – 4:30   | Wrap-up and office hours                                                                                                 |
+| Evening        | Beach day                                                                                                                |
 
 **Independent work options:** keep working on your proposal, walk through the technical setup, or look for more grant opportunities.
 

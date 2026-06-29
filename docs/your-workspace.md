@@ -1,5 +1,7 @@
 # Your workspace
 
+> **You set this up on Thursday (Day 4), during the AI demo.** No need to fork or open it before then. If you want to prep early, the only thing that helps is having the accounts in "Before you arrive" ready (GitHub, Claude Pro, Claude Code).
+
 Your grant work lives in the **Grant Writing Starter**, a ready-to-go workspace where AI tools and your professional context are already wired in.
 
 - Repo: [github.com/ashleyscruse/grant-writing-starter](https://github.com/ashleyscruse/grant-writing-starter)
