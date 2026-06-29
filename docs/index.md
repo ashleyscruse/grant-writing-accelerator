@@ -34,6 +34,34 @@ Your grant work lives in the **Grant Writing Starter**, a ready-to-go workspace 
 - It includes skills that do the heavy lifting: **grant-analyzer** (honest fit assessment), **grant-writing** (sections mapped to the review rubric), and more.
 - Make your own copy ("Fork" or "Use this template"), open it in VS Code, Cursor, Claude Code, or Claude on the web, and say hi. Your guide, **Sage**, walks you through filling in your profile. Setup and updates: see the repo's **SETUP.md**.
 
+## Explore the compute on your own
+
+We have a Vista GPU reservation for each day of the week. After a demo, you can keep exploring on your own using that day's reservation. Each reservation is 15 GPU nodes on the `gh` partition under allocation `TRA25001`, available 8:45 AM to 5:15 PM Central.
+
+| Day | Date | Reservation name |
+|-----|------|------------------|
+| Mon | June 29 | `NAIRR+Accel_Mon` |
+| Tue | June 30 | `NAIRR+Accel_Tue` |
+| Wed | July 1 | `NAIRR+Accel_Wed` |
+| Thu | July 2 | `NAIRR+Accel_Thu` |
+| Fri | July 3 | `NAIRR+Accel_Fri` |
+
+To use a reservation, add `--reservation=<name>` (and the account and partition) to your job:
+
+```bash
+# Interactive GPU node (today is Monday)
+idev -p gh -A TRA25001 --reservation=NAIRR+Accel_Mon -N 1 -n 1 -t 02:00:00
+```
+
+```bash
+# In a batch script
+#SBATCH -p gh
+#SBATCH -A TRA25001
+#SBATCH --reservation=NAIRR+Accel_Mon
+```
+
+A reservation only works during its day and time window. Use the name that matches the day you are working.
+
 ## Resources
 
 Materials we share during the week will be added here as we go.
