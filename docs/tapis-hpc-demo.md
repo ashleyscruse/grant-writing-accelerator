@@ -44,21 +44,10 @@ Where things go on Vista (matters for your Data Management Plan):
 
 ## Launch a Jupyter notebook (copy and paste)
 
-1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)** → **Jobs → submit a job** and paste this in. Change `NAIRR+Accel_Mon` to today (Tue is `_Tue`, Wed `_Wed`, and so on):
+1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)** → **Jobs → submit a job** and paste this in:
 
 ```json
-{
-  "name": "jupyter",
-  "appId": "jupyter-hpc-native",
-  "appVersion": "vista",
-  "maxMinutes": 120,
-  "parameterSet": {
-    "schedulerOptions": [
-      { "name": "partition", "arg": "--partition=gh" },
-      { "name": "reservation", "arg": "--reservation=NAIRR+Accel_Mon" }
-    ]
-  }
-}
+{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista" }
 ```
 
 2. Wait until it reads **RUNNING**, open **`tapisjob.out`**, and copy the `JUPYTER_URL` line into your browser.
