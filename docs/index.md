@@ -21,7 +21,8 @@ Lunch each day: 12:30 to 1:30. Office hours follow the afternoon sessions. Eveni
 - [ ] Create a [TACC account](https://portal.tacc.utexas.edu/account-request) and set up multi-factor authentication (for the NAIRR / TACC compute work).
 - [ ] Bring one real funding opportunity you are considering (a URL or PDF of an RFP / NOFO).
 - [ ] Bring your CV and a list of your publications and past grants, to make filling in your profile fast.
-- [ ] Recommended for the AI demo: a [GitHub account](https://github.com) and a Claude Pro account, plus [Claude Code](https://claude.ai/code) or Claude on the web / desktop.
+- [ ] Download **[Claude Code](https://claude.com/product/claude-code)**, the app we use for the AI demo.
+- [ ] Recommended for the AI demo: a [GitHub account](https://github.com) and a Claude Pro account.
 
 ## What we cover
 
