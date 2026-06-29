@@ -4,7 +4,7 @@
 
 Welcome. This is your home base for the week: the agenda, the curriculum, and any resources we share as we go. Check back here each day.
 
-**Today's "Why HPC" slides: [open them here](./why-hpc.pdf).**
+**Today's "Why HPC" slides:** <a href="{{ site.baseurl }}/why-hpc.pdf">open them here</a>.
 
 ## Agenda
 
