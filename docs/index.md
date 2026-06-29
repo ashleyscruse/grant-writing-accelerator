@@ -60,6 +60,14 @@ idev -p gh -A TRA25001 --reservation=NAIRR+Accel_Mon -N 1 -n 1 -t 02:00:00
 #SBATCH --reservation=NAIRR+Accel_Mon
 ```
 
+If you submit through **Tapis**, pass the reservation as a Slurm scheduler option on the job. In the job request, add it under `parameterSet.schedulerOptions`:
+
+```json
+"schedulerOptions": [
+  { "name": "reservation", "arg": "--reservation=NAIRR+Accel_Mon" }
+]
+```
+
 A reservation only works during its day and time window. Use the name that matches the day you are working.
 
 ## Resources
