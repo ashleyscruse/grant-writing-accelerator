@@ -1,7 +1,5 @@
 # Tapis / HPC demo
 
-Your companion to Monday's demo. This page stands on its own for the week: how to get on the supercomputer yourself, with no command line required.
-
 ## Two doors to the same supercomputer
 
 There are two ways onto Vista, and they stay in sync because they touch the same files and the same account.
