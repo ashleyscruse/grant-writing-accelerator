@@ -73,14 +73,19 @@ Change the `prompt = "..."` line and Shift+Enter. Add a style word at the end.
 
 Style words to tack on: `watercolor`, `oil painting`, `photograph`, `neon`, `pixel art`, `concept art`, `cinematic`.
 
-## CLONE THE REPO (show them, on a login node)
+## CLONE THE REPO (exact same steps as them, on a login node)
+FIRST, before the session, delete your old copy so you start fresh exactly like the room. The model is cached separately in `$WORK/hf-cache`, so this is safe and your setup stays fast:
+```
+rm -rf $WORK/supercomputer-paints
+```
+THEN run the same steps everyone runs:
 ```
 cd $WORK
 git clone https://github.com/ashleyscruse/supercomputer-paints.git
 cd supercomputer-paints
 bash setup.sh
 ```
-Already cloned? It says "already exists." Then either `cd $WORK/supercomputer-paints && git pull`, or clone into a new name: `git clone https://github.com/ashleyscruse/supercomputer-paints.git paints-demo`.
+(Yours finishes fast because the model is already downloaded; theirs downloads it. Same commands either way.)
 
 Then open `paint.ipynb` on a `gh` node and run the cells.
 
