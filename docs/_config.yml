@@ -6,7 +6,6 @@ title: "Grant Writing Accelerator"
 description: "Using AI to Accelerate Your Grant Writing"
 
 nav:
-- Agenda: ./agenda
 - Stage 1 Foundation:
   - Why AI Needs Your Context: ./01-Foundation/01-why-ai-context
   - Set Up Your Workspace: ./01-Foundation/02-setup-your-workspace
