@@ -21,32 +21,23 @@ This is the simplest way in, no command line needed. You launch a JupyterLab ses
 3. Submit, then watch the status move through `STAGING_INPUTS → SUBMITTING_JOB → QUEUED → RUNNING`.
 4. Once it reads **RUNNING**, wait one to two minutes, then open the job's output file **`tapisjob.out`**. Near the top is a line like `TACC: JUPYTER_URL is https://vista.tacc.utexas.edu:60707/?token=...`. Copy that full URL (including `?token=...`) into your browser. That is your notebook, running on a Vista GPU node.
 
-**Full job request, with this week's reservation:**
+**The job request (paste this in):**
 
 ```json
 {
   "name": "jupyter",
   "appId": "jupyter-hpc-native",
   "appVersion": "vista",
-  "maxMinutes": 120,
   "parameterSet": {
     "schedulerOptions": [
-      { "name": "partition", "arg": "--partition=gh" },
-      { "name": "reservation", "arg": "--reservation=NAIRR+Accel_Mon" }
+      { "name": "TACC Allocation", "arg": "-A TRA25001" }
     ]
   }
 }
 ```
 
-- Change `NAIRR+Accel_Mon` to the day you are working (see the table above).
-- The app already knows the system and the allocation (`TRA25001`), so you do not set those.
-- `maxMinutes` caps the session. Save your work to `$WORK` before it ends.
-
-**If you are not using the reservation** (for example, outside the reserved window), submit the short version instead and it runs on the app's default queue:
-
-```json
-{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "maxMinutes": 120 }
-```
+- The `-A TRA25001` line tells Vista which allocation to charge. If you ever see "you have multiple projects to charge to," that line is the fix.
+- This runs on the app's default GPU queue, which is all you need. To run specifically inside this week's reserved nodes, use the terminal (`idev` or `sbatch`) below; the reservation attaches cleanly there.
 
 > Tip: if the job sticks in `STAGING_INPUTS`, your TMS keys for the `cloud.data` system are not verified yet. In the **Files** browser, confirm you can open `cloud.data` once; then resubmit. If you see `required key [name] not found`, your JSON is missing the `name` field.
 
