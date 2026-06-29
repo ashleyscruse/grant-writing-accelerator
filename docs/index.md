@@ -24,20 +24,6 @@ Lunch each day: 12:30 to 1:30. Office hours follow the afternoon sessions. Eveni
 - [ ] Download **[Claude Code](https://claude.com/product/claude-code)**, the app we use for the AI demo.
 - [ ] Recommended for the AI demo: a [GitHub account](https://github.com) and a Claude Pro account.
 
-## What we cover
-
-The week follows a five-stage workflow for AI-accelerated grant writing. AI accelerates each stage; you make every decision between stages. The Tapis and AI demos are parts of this curriculum, not the whole of it. Use the navigation on the left to go deeper into any stage.
-
-| Stage | Focus | Deliverable |
-|-------|-------|-------------|
-| 1. Foundation | Build the profile that grounds every evaluation and draft | A reusable profile |
-| 2. Opportunity | Find opportunities and evaluate fit honestly | A fit evaluation and a go decision |
-| 3. Strategy | Define the project concept, objectives, and team | Objectives and a team document |
-| 4. Drafting | Write sections mapped to the funder's rubric | Drafted proposal sections |
-| 5. Review | Read as a reviewer, check compliance, submit | A review-ready, compliant draft |
-
-The two hard lines: do not start writing until fit is real and you have decided to pursue, and do not submit until you have done a reviewer-perspective and compliance pass.
-
 ## Your workspace
 
 Your grant work lives in the **Grant Writing Starter**, a ready-to-go workspace where AI tools and your professional context are already wired in.
@@ -45,20 +31,6 @@ Your grant work lives in the **Grant Writing Starter**, a ready-to-go workspace 
 - Repo: [github.com/ashleyscruse/grant-writing-starter](https://github.com/ashleyscruse/grant-writing-starter)
 - It includes skills that do the heavy lifting: **grant-analyzer** (honest fit assessment), **grant-writing** (sections mapped to the review rubric), and more.
 - Make your own copy ("Fork" or "Use this template"), open it in VS Code, Cursor, Claude Code, or Claude on the web, and say hi. Your guide, **Sage**, walks you through filling in your profile. Setup and updates: see the repo's **SETUP.md**.
-
-## Templates
-
-The starter workspace includes blank templates you fill in once and reuse.
-
-| Template | Stage | Purpose |
-|----------|-------|---------|
-| Identity | 1. Foundation | Name, positions, education, skills |
-| Research | 1. Foundation | Research focus, publications, active agenda |
-| Teaching and Mentoring | 1. Foundation | Programs, courses, mentoring record (broader impacts) |
-| Grant History | 1. Foundation | Past grants, strengths, and honest gaps |
-| Institution | 1. Foundation | Institution type, resources, affiliations (eligibility) |
-| Team | 3. Strategy | Who is on a specific proposal and their roles |
-| Collaborator | 3. Strategy | One per collaborator: expertise, relationship, prior work |
 
 ## Resources
 
