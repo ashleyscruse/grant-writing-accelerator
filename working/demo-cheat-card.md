@@ -52,6 +52,27 @@ Do not debug live. Say *"this is exactly why we keep a backup"* and flip to the 
 ## THIS WEEK'S RESERVATION (gh queue)
 Mon `NAIRR+Accel_Mon`, Tue `NAIRR+Accel_Tue`, Wed `NAIRR+Accel_Wed`, Thu `NAIRR+Accel_Thu`, Fri `NAIRR+Accel_Fri`
 
+## THE MODEL + HUGGING FACE (say this)
+- **Hugging Face** is a public library where researchers share AI models for free. Think GitHub, but for AI models. Anyone can download and use them.
+- The model we use is **Stable Diffusion XL Turbo** (`sdxl-turbo`), an open image model from Stability AI. Free, no account needed.
+- **"Turbo"** means it is tuned to make an image in one or two steps (about a second) instead of the usual thirty to fifty steps. That is why it is so fast.
+- We **downloaded it once** into `$WORK` so the GPU node can load it without internet.
+- The grant point: **open models plus free national compute means you can do real AI work without buying anything.** That is what you put in a proposal.
+
+## PROMPT IDEAS (if the room is shy)
+Change the `prompt = "..."` line and Shift+Enter. Add a style word at the end.
+- a glowing mycorrhizal fungal network beneath a forest, watercolor
+- a strand of DNA as stained glass, vibrant
+- a coral reef drawn as a data visualization, neon
+- a single neuron firing, oil painting
+- a supercomputer imagined as a city at night, cinematic
+- Morehouse College campus in cherry blossom season, photograph
+- a galaxy made of equations, digital art
+- an HBCU classroom of the future, concept art
+- a cozy coffee shop at sunrise, soft illustration
+
+Style words to tack on: `watercolor`, `oil painting`, `photograph`, `neon`, `pixel art`, `concept art`, `cinematic`.
+
 ## CLONE THE REPO (show them, on a login node)
 ```
 cd $WORK
