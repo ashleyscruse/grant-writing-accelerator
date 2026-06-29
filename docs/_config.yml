@@ -4,3 +4,8 @@ permalink: pretty
 baseurl: "/grant-writing-accelerator"
 title: "Grant Writing Accelerator"
 description: "Using AI to Accelerate Your Grant Writing"
+
+nav:
+- Your Workspace: ./your-workspace
+- Explore the Compute: ./explore-compute
+- Resources: ./resources
