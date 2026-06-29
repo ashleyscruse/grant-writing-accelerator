@@ -8,11 +8,11 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 
 | Day | Focus |
 |-----|-------|
-| **Mon, June 29** | Introduction Day: grant, HPC, and MSCF background; why HPC for your research; identifying funding opportunities. Includes the **HPC + Tapis demo**. |
-| **Tue, June 30** | Grant Training: walking through the proposal and its major sections. |
-| **Wed, July 1** | Budgets: building and justifying a grant budget. |
-| **Thu, July 2** | Demo Day: the **AI demo**, using AI to accelerate your proposal workflow. |
-| **Fri, July 3** | Work Day: continued demo, feedback, independent work, and collaboration. |
+| **Mon,&nbsp;June&nbsp;29** | Introduction Day: grant, HPC, and MSCF background; why HPC for your research; identifying funding opportunities. Includes the **HPC + Tapis demo**. |
+| **Tue,&nbsp;June&nbsp;30** | Grant Training: walking through the proposal and its major sections. |
+| **Wed,&nbsp;July&nbsp;1** | Budgets: building and justifying a grant budget. |
+| **Thu,&nbsp;July&nbsp;2** | Demo Day: the **AI demo**, using AI to accelerate your proposal workflow. |
+| **Fri,&nbsp;July&nbsp;3** | Work Day: continued demo, feedback, independent work, and collaboration. |
 
 Lunch each day: 12:30 to 1:30. Office hours follow the afternoon sessions. Evening and social plans are shared by email and in the cohort WhatsApp group.
 
