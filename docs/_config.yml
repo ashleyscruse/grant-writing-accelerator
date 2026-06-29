@@ -1,0 +1,31 @@
+remote_theme: marella/jekyll-theme-documentation
+
+permalink: pretty
+baseurl: "/grant-writing-accelerator"
+title: "Grant Writing Accelerator"
+description: "Using AI to Accelerate Your Grant Writing"
+
+nav:
+- Agenda: ./agenda
+- Stage 1 Foundation:
+  - Why AI Needs Your Context: ./01-Foundation/01-why-ai-context
+  - Set Up Your Workspace: ./01-Foundation/02-setup-your-workspace
+  - Your Profile: ./01-Foundation/03-your-profile
+- Stage 2 Opportunity:
+  - Finding Opportunities: ./02-Opportunity/01-finding-opportunities
+  - Evaluating Fit: ./02-Opportunity/02-evaluating-fit
+- Stage 3 Strategy:
+  - Project Concept and Aims: ./03-Strategy/01-project-concept
+  - Building Your Team: ./03-Strategy/02-team
+- Stage 4 Drafting:
+  - Writing Sections with AI: ./04-Drafting/01-writing-with-ai
+  - Proposal Sections: ./04-Drafting/02-proposal-sections
+  - Grant Types: ./04-Drafting/03-grant-types
+- Stage 5 Review and Submission:
+  - The Reviewer's Perspective: ./05-Review/01-reviewer-perspective
+  - Compliance and Submission: ./05-Review/02-compliance-submission
+- NAIRR and TACC Compute:
+  - NAIRR and TACC for Your Grants: ./06-Compute/01-nairr-tacc
+  - Tapis Quickstart: ./06-Compute/02-tapis-quickstart
+- AI Tools:
+  - Tools That See Your Files: ./AI-Tools/01-tools-overview
