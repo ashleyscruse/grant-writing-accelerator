@@ -1,18 +1,6 @@
 # Tapis / HPC demo
 
-Your companion to Monday's demo. This page stands on its own for the week: what the supercomputer is, why it matters for your grants, and how to touch it yourself, with no command line required.
-
-## The three names
-
-- **NAIRR** (National Artificial Intelligence Research Resource): a national pilot that gives researchers access to AI compute, data, and tools, much of it at no cost to you.
-- **TACC** (Texas Advanced Computing Center) and **Vista**: TACC runs the machines. Vista is its newer GPU supercomputer (NVIDIA Grace-Hopper, H200 GPUs), built for AI.
-- **Tapis**: the platform you use to reach Vista, through a web page or a few lines of Python, instead of SSH and hand-written batch scripts.
-
-## Why a grant writer cares
-
-1. **Feasibility.** Reviewers ask, "can they actually do this?" You can answer yes: national-scale GPU compute through NAIRR/TACC, via our institutional Tapis tenant, allocation `TRA25001`.
-2. **Write it in.** In your Facilities, Equipment, and Other Resources section: *Computational work will be carried out on TACC's Vista system (NVIDIA Grace-Hopper, H200 GPUs), accessed through the Morehouse Tapis tenant under NAIRR allocation `TRA25001`.* True, specific, and reviewers like specific.
-3. **Request your own.** NAIRR allocations are something you can request as part of a proposal. This week shows the resource is real and usable.
+Your companion to Monday's demo. This page stands on its own for the week: how to get on the supercomputer yourself, with no command line required.
 
 ## Two doors to the same supercomputer
 
