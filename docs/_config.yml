@@ -6,6 +6,7 @@ title: "Grant Writing Accelerator"
 description: "Using AI to Accelerate Your Grant Writing"
 
 nav:
+- Tapis / HPC Demo: ./tapis-hpc-demo
 - Your Workspace: ./your-workspace
 - Explore the Compute: ./explore-compute
 - Resources: ./resources
