@@ -1,9 +1,7 @@
 # Your workspace
 
-> **You set this up on Thursday (Day 4), during the AI demo.** No need to fork or open it before then. If you want to prep early, the only thing that helps is having the accounts in "Before you arrive" ready (GitHub, Claude Pro, Claude Code).
+## Coming Thursday (Day 4)
 
-Your grant work lives in the **Grant Writing Starter**, a ready-to-go workspace where AI tools and your professional context are already wired in.
+You will set up your grant writing workspace together during Thursday's AI demo, the ready to go space where AI tools and your professional context are already wired in.
 
-- Repo: [github.com/ashleyscruse/grant-writing-starter](https://github.com/ashleyscruse/grant-writing-starter)
-- It includes skills that do the heavy lifting: **grant-analyzer** (honest fit assessment), **grant-writing** (sections mapped to the review rubric), and more.
-- Make your own copy ("Fork" or "Use this template"), open it in VS Code, Cursor, or Claude Code, and say hi. Your guide, **Sage**, walks you through filling in your profile. Setup and updates: see the repo's **SETUP.md**.
+Nothing to do before then. We will hand it to you when it is ready. Check back here Thursday.

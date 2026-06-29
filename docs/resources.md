@@ -2,7 +2,7 @@
 
 Materials we share during the week will be added here as we go.
 
-- [Grant Writing Starter repo](https://github.com/ashleyscruse/grant-writing-starter)
+- Grant Writing Starter workspace: coming Thursday (Day 4)
 - [Morehouse Tapis Tenant](https://morehouse.tapis.io)
 - [Launching Jupyter on Vista (MSCF)](https://morehouse-supercomputing.github.io/jupyter-on-tapis/)
 
