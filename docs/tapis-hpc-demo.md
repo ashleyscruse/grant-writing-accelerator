@@ -63,6 +63,23 @@ Where things go on Vista (matters for your Data Management Plan):
 
 2. Wait until it reads **RUNNING**, open **`tapisjob.out`**, and copy the `JUPYTER_URL` line into your browser.
 
+## See it paint (the demo notebook)
+
+The notebook we run in the demo is **[github.com/ashleyscruse/supercomputer-paints](https://github.com/ashleyscruse/supercomputer-paints)**. You type a sentence and a Vista GPU paints it into a picture in about a second.
+
+To run it yourself this week:
+
+1. On a Vista **login** node, set it up once (this downloads the model into your `$WORK`, a few minutes):
+
+```bash
+cd $WORK
+git clone https://github.com/ashleyscruse/supercomputer-paints.git
+cd supercomputer-paints
+bash setup.sh
+```
+
+2. Launch Jupyter on a `gh` node (the JSON above), open `paint.ipynb`, run the cells, and change the prompt to anything you like.
+
 ## Vista queues
 
 | Queue | What you get |
