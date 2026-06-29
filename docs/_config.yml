@@ -7,6 +7,7 @@ description: "Using AI to Accelerate Your Grant Writing"
 
 nav:
 - Tapis / HPC Demo: ./tapis-hpc-demo
+- Do It Yourself: ./walkthrough
 - Your Workspace: ./your-workspace
 - Explore the Compute: ./explore-compute
 - Resources: ./resources
