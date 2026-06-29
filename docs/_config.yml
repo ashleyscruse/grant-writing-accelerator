@@ -6,7 +6,7 @@ title: "Grant Writing Accelerator"
 description: "Using AI to Accelerate Your Grant Writing"
 
 nav:
-- Why HPC (slides): ./why-hpc.pdf
+- Why HPC (slides): ./why-hpc
 - Tapis / HPC Demo: ./tapis-hpc-demo
 - Do It Yourself: ./walkthrough
 - Your Workspace: ./your-workspace
