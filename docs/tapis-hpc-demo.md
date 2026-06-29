@@ -44,17 +44,7 @@ Where things go on Vista (matters for your Data Management Plan):
 
 ## Launch a Jupyter notebook (copy and paste)
 
-Launch JupyterLab on a real Vista GPU node from the Tapis web app, no command line.
-
-1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)**, then **Jobs → submit a job** and paste this into the JSON box:
-
-```json
-{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "maxMinutes": 120 }
-```
-
-2. Wait until the job reads **RUNNING**, open the output file **`tapisjob.out`**, and copy the `JUPYTER_URL` line (including `?token=...`) into your browser.
-
-**To run inside this week's GPU reservation**, paste this version instead and change the day (`NAIRR+Accel_Mon` → the day you are working):
+1. Go to **[morehouse.tapis.io](https://morehouse.tapis.io)** → **Jobs → submit a job** and paste this in. Change `NAIRR+Accel_Mon` to today (Tue is `_Tue`, Wed `_Wed`, and so on):
 
 ```json
 {
@@ -71,7 +61,7 @@ Launch JupyterLab on a real Vista GPU node from the Tapis web app, no command li
 }
 ```
 
-Full step-by-step and troubleshooting: **[Explore the Compute](./explore-compute)**.
+2. Wait until it reads **RUNNING**, open **`tapisjob.out`**, and copy the `JUPYTER_URL` line into your browser.
 
 ## Vista queues
 
