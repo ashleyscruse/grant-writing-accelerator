@@ -39,8 +39,8 @@ Say: *"You can do this yourself all week. Here's how."*
 ---
 
 ## THE JSON (paste into Jobs)
-`{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "parameterSet": { "schedulerOptions": [ { "name": "TACC Allocation", "arg": "-A TRA25001" } ] } }`
-(The `-A TRA25001` is what fixes the "multiple projects" error.)
+`{ "name": "jupyter", "appId": "jupyter-hpc-native", "appVersion": "vista", "execSystemLogicalQueue": "gh", "parameterSet": { "schedulerOptions": [ { "name": "TACC Allocation", "arg": "-A TRA25001" }, { "name": "TACC Reservation", "arg": "--reservation=NAIRR+Accel_Mon" } ] } }`
+(Change `NAIRR+Accel_Mon` to today. `-A TRA25001` fixes the "multiple projects" error; `--reservation` puts you on the reserved nodes.)
 
 ## LOGIN (if you blank)
 - Web: **morehouse.tapis.io**, TACC username and password and MFA
