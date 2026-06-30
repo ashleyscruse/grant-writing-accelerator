@@ -22,7 +22,6 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 | 12:30 to 1:30 | Lunch |
 | 1:30 to 3:00 | Identifying funding opportunities, continued |
 | 3:00 to 4:30 | Office hours: start your one-page idea |
-| Evening | White Party |
 
 ### Tuesday, June 30: Grant Training
 
@@ -36,7 +35,6 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 | 12:30 to 1:30 | Lunch |
 | 1:30 to 3:00 | Independent work: draft a one-page summary |
 | 3:00 to 4:30 | Office hours: one-pager |
-| Evening | Souvenir shop, Punta Blanca Mall |
 
 ### Wednesday, July 1: Budgets
 
@@ -50,7 +48,6 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 | 12:30 to 1:30 | Lunch |
 | 1:30 to 3:00 | Activity: build your sample budget and justification |
 | 3:00 to 4:30 | Office hours: budget |
-| Evening | Beach day |
 
 ### Thursday, July 2: Demo Day
 
@@ -61,7 +58,6 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 | 12:30 to 1:30 | Lunch |
 | 1:30 to 3:00 | Get to work on your own proposal: evaluate an opportunity (grant-analyzer), then draft a section (grant-writing). Help on hand |
 | 3:00 to 4:30 | Office hours |
-| Evening | Mall and farewell dinner (group picture) |
 
 ### Friday, July 3: Work Day
 
@@ -73,7 +69,6 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 | 1:30 to 3:00 | Collaboration (as it comes up naturally) |
 | 3:00 to 3:15 | End-of-program evaluation: complete both surveys, general and track-specific (about 15 minutes, for those who consented) |
 | 3:15 to 4:30 | Wrap-up and office hours |
-| Evening | Beach day |
 
 *Saturday, July 4: travel day.*
 
