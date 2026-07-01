@@ -3,6 +3,7 @@
 Materials we share during the week will be added here as we go.
 
 - Grant Writing Starter workspace: coming Thursday (Day 4)
+- [Sample Budget (Google Sheet)](https://docs.google.com/spreadsheets/d/1XRKgzwu_TksakUE6rlztU3CI-KZQdb8pQfaREYYfyg8/edit?gid=0#gid=0)
 - [Morehouse Tapis Tenant](https://morehouse.tapis.io)
 - [Launching Jupyter on Vista (MSCF)](https://morehouse-supercomputing.github.io/jupyter-on-tapis/)
 
