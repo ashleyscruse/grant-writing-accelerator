@@ -9,6 +9,6 @@ nav:
 - Slides: ./slides
 - Tapis / HPC Demo: ./tapis-hpc-demo
 - Do It Yourself: ./walkthrough
-- Your Workspace: ./your-workspace
+- Your AI Workspace: ./your-workspace
 - Explore the Compute: ./explore-compute
 - Resources: ./resources
