@@ -23,7 +23,6 @@ This is the workspace we use during the AI demo: a ready-to-go space where the A
 - <a href="https://github.com/ashleyscruse/grant-writing-starter">Workspace on GitHub</a>
 - <a href="https://claude.com/product/claude-code">Download Claude Code</a>
 - <a href="https://claude.ai/upgrade">Claude Pro</a>
-- <a href="{{ site.baseurl }}/slides">The day's slides</a>
 - <a href="./resources">Resources</a>
 
 A ZIP is a one-time snapshot. If we add anything to the workspace during the week, just re-download to get the latest.
