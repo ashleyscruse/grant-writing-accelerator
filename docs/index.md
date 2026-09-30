@@ -29,7 +29,7 @@ Welcome. This is your home base for the week: the agenda, the curriculum, and an
 |---|---|
 | 10:00 to 10:45 | Feedback on the solicitation you chose: its pros and cons |
 | 10:45 to 11:30 | The major proposal sections: Project Summary, Project Description (research plan), Intellectual Merit, Broader Impacts, and the budget and justification, and what reviewers score in each |
-| 11:30 to 11:50 | How to use the MSCF in your proposal |
+| 11:30 to 11:50 | How to use the MSF in your proposal |
 | 11:50 to 12:10 | The proposal evaluation process and submission timeline; starter grant opportunities |
 | 12:10 to 12:30 | Picking collaborators and supporting materials (letters of support, current and pending, biosketch); how AI can help your workflow (a teaser for Thursday) |
 | 12:30 to 1:30 | Lunch |

@@ -80,4 +80,4 @@ Our reservation this week is on `gh`. See [Explore the Compute](./explore-comput
 
 ## Go deeper (optional)
 
-For the full Jupyter-on-Vista walkthrough maintained by the MSCF, see [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).
+For the full Jupyter-on-Vista walkthrough maintained by the MSF, see [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).

@@ -31,7 +31,7 @@ Week-long faculty cohort (Jun 28 – Jul 4, 2026) in Punta Cana focused on produ
 ## Quick links
 - [[nairr|Back to parent NAIRR program]]
 - Public URL: https://www.bpccenter.org/current-programs/nairr-accelerator
-- Lead: [[scruse-ashley]] (Deputy Director, MSCF)
+- Lead: [[scruse-ashley]] (Deputy Director, MSF)
 - GitHub repo: `morehouse-supercomputing/nairr-grant-writing`
 
 ## Tasks
@@ -54,12 +54,12 @@ Week-long faculty cohort (Jun 28 – Jul 4, 2026) in Punta Cana focused on produ
 Deliver the grant-writing track of the NAIRR Accelerator program, equipping participating faculty and researchers with the materials, templates, and structured guidance to prepare a competitive grant proposal during the cohort window.
 
 ## Why this matters
-Grant writing is a learned skill that most early-career researchers acquire through trial and error. This track provides structured curriculum and templates, paired with cohort accountability, so participants leave with a working draft rather than just notes. Runs through MSCF, parallel to the Research and Curriculum tracks of the broader NAIRR Accelerator.
+Grant writing is a learned skill that most early-career researchers acquire through trial and error. This track provides structured curriculum and templates, paired with cohort accountability, so participants leave with a working draft rather than just notes. Runs through MSF, parallel to the Research and Curriculum tracks of the broader NAIRR Accelerator.
 
 ## Funding & partners
-- **Host:** Morehouse Supercomputing Facility (MSCF)
+- **Host:** Morehouse Supercomputing Facility (MSF)
 - **Program source:** NAIRR Pilot
-- **Lead:** [[scruse-ashley]] (Deputy Director, MSCF)
+- **Lead:** [[scruse-ashley]] (Deputy Director, MSF)
 - **Venue:** Royalton Punta Cana, Dominican Republic
 
 ## Deliverables

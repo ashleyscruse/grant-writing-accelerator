@@ -57,4 +57,4 @@ idev -p gh -A TRA25001 --reservation=NAIRR+Accel_Mon -N 1 -n 1 -t 02:00:00
 #SBATCH --reservation=NAIRR+Accel_Mon
 ```
 
-For the full Jupyter-on-Vista walkthrough, see the MSCF guide: [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).
+For the full Jupyter-on-Vista walkthrough, see the MSF guide: [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).

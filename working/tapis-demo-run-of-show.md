@@ -89,7 +89,7 @@ Show that interactive compute is one move on either side.
 - **Left (terminal):** kick off an interactive GPU session: `idev -p gh-dev -N 1 -n 1 -t 00:30:00`. "This is the classic way to grab a GPU node — a couple of letters." (If `idev` is slow to schedule, narrate it and move to the right; don't wait on the queue live.)
 - **Right (Tapis):** launch a **Jupyter** environment for the same machine:
   - **Option A — Pods (fastest to show):** **Pods** → templates → **Jupyter** (or open the one you pre-started). It gets its own TLS URL: `https://<pod-id>.pods.tacc.tapis.io`. Open it, run one cell, e.g. `import torch; torch.cuda.is_available()`.
-  - **Option B — Jupyter on Vista (real GPU node):** use the MSCF guide, [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).
+  - **Option B — Jupyter on Vista (real GPU node):** use the MSF guide, [Launching Jupyter on Vista](https://morehouse-supercomputing.github.io/jupyter-on-tapis/).
 - Land it: "Terminal or browser — under a minute to a GPU either way. *This* is why feasibility is not a worry: the barrier to national compute is now this low."
 
 ### 15:00–18:00 — Batch jobs, both ways (brief)
@@ -133,4 +133,4 @@ Land the three takeaways:
 ## Source material
 - Full Tapis reference: `research-accelerator/tapis-docs.md`
 - Workbook pages (keep-after): `docs/06-Compute/01-nairr-tacc.md`, `docs/06-Compute/02-tapis-quickstart.md`
-- MSCF Jupyter guide: https://morehouse-supercomputing.github.io/jupyter-on-tapis/
+- MSF Jupyter guide: https://morehouse-supercomputing.github.io/jupyter-on-tapis/
